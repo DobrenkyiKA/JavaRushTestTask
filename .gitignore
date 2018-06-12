@@ -1,0 +1,9 @@
+*.iml
+*.properties
+*.info
+*.xml
+*.txt
+*.log
+out.log
+.out/
+.idea/
